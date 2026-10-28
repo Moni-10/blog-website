@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /includes/
+Disallow: /cache/
+Sitemap: https://hits9.com/sitemap.xml

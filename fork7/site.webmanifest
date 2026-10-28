@@ -1,0 +1,15 @@
+{
+  "name": "Fork7",
+  "short_name": "Fork7",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff681b",
+  "icons": [
+    {
+      "src": "/assets/images/fork7logo.png",
+      "sizes": "1280x1280",
+      "type": "image/png"
+    }
+  ]
+}

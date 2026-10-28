@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /search/
+Disallow: /includes/
+Disallow: /cache/
+Sitemap: https://fork7.com/sitemap.xml
